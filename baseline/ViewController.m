@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //新功能_01
+    //新功能_01 发布版本_01
     // Do any additional setup after loading the view, typically from a nib.
 }
 
